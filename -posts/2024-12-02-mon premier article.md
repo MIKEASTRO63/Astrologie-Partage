@@ -1,5 +1,5 @@
 ---
-layout: post
+layou: post
 title: mon essai de texte
 subtitle: mon sous titre
 publised: true
